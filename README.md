@@ -5,9 +5,6 @@
   <!-- Python | 深蓝，和整体科技蓝风格协调 -->
   <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/>
 
-  <!-- Java | 深蓝灰，更现代更科技感 -->
-  <img src="https://img.shields.io/badge/Java-2F3E55?style=for-the-badge&logo=coffeescript&logoColor=white"/>
-
   <!-- PyTorch | 降低饱和度的暗橙，更不刺眼 -->
   <img src="https://img.shields.io/badge/PyTorch-C2462B?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
@@ -23,11 +20,11 @@
   <!-- RAG | 深橙，让亮色不过于跳脱 -->
   <img src="https://img.shields.io/badge/RAG-D96500?style=for-the-badge&logo=elastic&logoColor=white"/>
 
-  <!-- Web Design | 从亮粉改为深紫粉，与 Agent/LLM 配色协调 -->
-  <img src="https://img.shields.io/badge/Web%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white"/>
-
   <!-- NLP | 改为统一紫色，减少突兀性 -->
   <img src="https://img.shields.io/badge/NLP-7F3FBF?style=for-the-badge&logo=scribd&logoColor=white"/>
+
+  <!-- Web Design | 从亮粉改为深紫粉，与 Agent/LLM 配色协调 -->
+  <img src="https://img.shields.io/badge/Web%20Design-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white"/>
 
 </p>
 
