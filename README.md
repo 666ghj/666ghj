@@ -32,7 +32,7 @@ My primary programming language is Python, and my long-term interests focus on D
 
 I hope to grow into a full stack engineer and an independent developer known for creating polished and thoughtful work. I also enjoy designing visually aesthetic web pages and creative digital content.
 
-I'm currently a senior at BUPT, usually based in Beijing or Shanghai. Now at Shanda Group, I focus on the practical implementation and realization of the 'AI Predicting the Future' vision.
+**I am currently a senior student at BUPT, based in Shanghai, and looking for internship opportunities in Shanghai**. My interests center on AI Agents, LLM applications, and practical engineering implementation, and I am especially interested in projects with real-world business value and long-term growth potential. Feel free to reach out to me by email for internship opportunities, collaborations, or interesting ideas.
 
 Follow me on： 
 <a href="https://xhslink.com/m/2KRdOuiDQKS" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>
