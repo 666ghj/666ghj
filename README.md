@@ -28,11 +28,11 @@
 
 </p>
 
-My primary programming language is Python, and my long-term interests focus on Deep Learning, LLM, Graph-based computation, and Agent systems. In recent months, I have been concentrating on Agent architecture design together with the exploration of practical application scenarios.
+My primary programming language is Python, and my long-term interests focus on Deep Learning, LLMs, graph-based computing, and Agent systems. In recent months, I have been concentrating on Agent architecture design and exploring practical application scenarios. I am also the creator of the open-source projects MiroFish and BettaFish, where I explore multi-agent systems, prediction, and public opinion analysis in real-world contexts.
 
-I hope to grow into a full stack engineer and an independent developer known for creating polished and thoughtful work. I also enjoy designing visually aesthetic web pages and creative digital content.
+I hope to grow into a full-stack engineer and an independent developer known for creating polished and thoughtful work. I also enjoy designing visually engaging web experiences and creative digital content.
 
-**I am currently a senior student at BUPT, based in Shanghai, and looking for internship opportunities in Shanghai**. My interests center on AI Agents, LLM applications, and practical engineering implementation, and I am especially interested in projects with real-world business value and long-term growth potential. Feel free to reach out to me by email for internship opportunities, collaborations, or interesting ideas.
+**I am currently a senior student at BUPT, based in Shanghai, and looking for internship opportunities in Shanghai.** My interests center on AI Agents, LLM applications, and practical engineering implementation. I am especially interested in projects with real-world business value and long-term growth potential. Feel free to reach out by email regarding internships, collaborations, or interesting ideas.
 
 Follow me on： 
 <a href="https://xhslink.com/m/2KRdOuiDQKS" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>
