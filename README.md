@@ -40,3 +40,4 @@ Follow me on：
 <a href="./WeChat QR Code.png" target="_blank"><img src="https://img.shields.io/badge/公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a>
 <a href="https://linux.do/u/baifu/summary" target="_blank"><img src="https://img.shields.io/badge/Linux.do-000000?style=for-the-badge&logo=linux&logoColor=white" /></a>
 <a href="https://space.bilibili.com/440317162" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/guohj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
