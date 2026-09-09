@@ -32,7 +32,7 @@ My primary programming language is Python, and my long-term interests focus on D
 
 I hope to grow into a full-stack engineer and an independent developer known for creating polished and thoughtful work. I also enjoy designing visually engaging web experiences and creative digital content.
 
-I recently graduated from BUPT with a bachelor's degree and am based in Shanghai and Hefei. My interests center on AI Agents, LLM applications, and practical engineering implementation. I am exploring opportunities where I can contribute to meaningful projects, collaborate with talented people, and continue growing as an engineer. **If you find my background or interests aligned with your work, feel free to reach out by email for potential collaborations, opportunities, or interesting ideas.**
+I've just started my master's studies at USTC and am based in Shanghai and Hefei. My interests center on AI Agents, LLM applications, and practical engineering implementation. I am exploring opportunities where I can contribute to meaningful projects, collaborate with talented people, and continue growing as an engineer. **If you find my background or interests aligned with your work, feel free to reach out by email for potential collaborations, opportunities, or interesting ideas.**
 
 Follow me on： 
 <a href="https://x.com/whoisbaifu" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @whoisbaifu" /></a>
