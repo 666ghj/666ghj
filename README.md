@@ -35,6 +35,7 @@ I hope to grow into a full-stack engineer and an independent developer known for
 I recently graduated from BUPT with a bachelor's degree and am based in Shanghai and Hefei. My interests center on AI Agents, LLM applications, and practical engineering implementation. I am exploring opportunities where I can contribute to meaningful projects, collaborate with talented people, and continue growing as an engineer. **If you find my background or interests aligned with your work, feel free to reach out by email for potential collaborations, opportunities, or interesting ideas.**
 
 Follow me on： 
+<a href="https://x.com/whoisbaifu" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @whoisbaifu" /></a>
 <a href="https://xhslink.com/m/2KRdOuiDQKS" target="_blank"><img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" /></a>
 <a href="./WeChat QR Code.png" target="_blank"><img src="https://img.shields.io/badge/公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white" /></a>
 <a href="https://linux.do/u/baifu/summary" target="_blank"><img src="https://img.shields.io/badge/Linux.do-000000?style=for-the-badge&logo=linux&logoColor=white" /></a>
